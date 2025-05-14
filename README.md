@@ -1,6 +1,6 @@
 # EX-NO-9-RSA-Algorithm
-## NAME: K.ABHINESWAR REDDY
-## REG NO: 212223040084
+## NAME: K.S.TAMILARASAN
+## REG NO: 212223100056
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
 
@@ -134,8 +134,8 @@ int main() {
 
 
 ## Output:
+![Screenshot 2025-05-14 092926](https://github.com/user-attachments/assets/f8abf2ac-1041-4989-8a14-2011df0d6f91)
 
-![image](https://github.com/user-attachments/assets/1589f385-48ca-4291-962a-754235fc2968)
 
 
 
